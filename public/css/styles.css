@@ -1,0 +1,115 @@
+body {
+
+  background: 
+    /* top, transparent red, faked with gradient */ 
+    linear-gradient(
+      rgba(63, 63, 63, 0.45), 
+      rgba(63, 63, 63, 0.45)
+      
+    ),
+    /* bottom, image */
+    url(../img/bg11.jpg);
+    background-size: cover; 
+  background-position: top center; 
+  min-height: 100%;
+}
+
+h2{
+  color:#fff;
+}
+.form-group label {
+  color: #fff;
+  font-size: 18px;;
+}
+/* Data Panel Size */
+.card-header {
+  background-color: lightsteelblue;
+  background-image: url(../img/graph.jpg);
+  width: 700px;
+  border: 1px solid #ecf0f1;
+}
+.card-body{
+  background-color:#fff;
+  width: 700px;
+  margin-bottom: 10px;
+  overflow: hidden;
+  
+}
+.card {
+  background-color: transparent;
+}
+.btn-default {
+  background-color:rgba(211, 211, 211, 0.596);
+}
+.btn-danger {
+  background-color: rgba(211, 211, 211, 0.596);
+  border: none;
+}
+.btn-danger:hover {
+  background-color: red;
+}
+
+/* Scroll Bar */
+.scrollbox {
+  height:700px;
+  overflow-y: scroll;
+}
+
+/* Search Bar */
+
+/* List Button */
+.btnlist{
+  height: 50px;
+  width: 150px;
+  margin: 0 auto;
+  padding: 0;
+  display: inline-block;
+  line-height: 45px;
+  text-align: center; 
+  margin-bottom: 15px;
+ 
+}
+
+.navbar-header {
+  float: left;
+  text-align: center;
+  width: 100%;
+  font-size: 22px;;
+}
+.navbar-brand {float:none;}
+
+.headingtxt h1 {
+  color: #fff;
+  padding-top: 100px;
+  text-align: center;
+}
+.headingtxt h4 {
+  color: #fff;
+  text-align: center;
+}
+
+
+
+button.submit {
+  float: right;
+}
+
+form#soldhouse {
+  margin-top: 50px;
+}
+
+#soldhouse textarea {
+  resize: none;
+}
+
+.card-header button.delete,
+button.edit {
+  float: right;
+  margin: 5px;
+}
+/* .container { background-color: aquamarine;
+
+} */
+/* .row {background-color: aquamarine;
+
+} */
