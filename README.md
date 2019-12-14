@@ -16,5 +16,8 @@ HTML, CSS, JavaScript, jQuery, MySQL, Node.js, Express.js,ORM, MVC
 
 ![alt text](public/img/image.png)
 
+![alt text](public/img/housingmarketgraph.png)
+
+
 
 
