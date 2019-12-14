@@ -14,7 +14,7 @@ Housing Market Tracker is a CRUD web application that uses MySQL, Node, Express,
 ### Technologies Used
 HTML, CSS, JavaScript, jQuery, MySQL, Node.js, Express.js,ORM, MVC
 
-
+![alt text](public/img/image.png)
 
 
 
